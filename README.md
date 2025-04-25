@@ -20,7 +20,7 @@ Panel administrativo desarrollado con React, Bootstrap y React Router.
 
 1. Clonar repositorio:
 ```bash
-git clone [https://github.com/Jadavid22/TallerReact.git]
+git clone https://github.com/Jadavid22/TallerReact.git
 ```
 
 2. Instalar dependencias:
