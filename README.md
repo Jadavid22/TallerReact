@@ -28,7 +28,7 @@ git clone https://github.com/Jadavid22/TallerReact.git
 npm install
 ```
 
-## Despliegue
+## Ejecutar
 ```bash
-npm run build
+npm run dev
 ```
