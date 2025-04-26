@@ -1,6 +1,6 @@
-#Nombres
-Ana Valeria Barreto Tellez - 2215630
-Javier David Villanueva Bernal - 2215503
+## Nombres
+- Ana Valeria Barreto Tellez - 2215630
+- Javier David Villanueva Bernal - 2215503
 
 # Panel Administrativo con React
 ![image](https://github.com/user-attachments/assets/e9f0e6ad-9a4d-4c39-b069-77ccfbf97340)
